@@ -1,5 +1,5 @@
 # arduiZo
-Only "real" persons will ever signify the repo name !
+
 
 Programs that runs on an Arduino board
 
